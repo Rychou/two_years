@@ -1,0 +1,92 @@
+
+.App {
+  position: fixed;
+  left: 50%;
+  top: 2%;
+  width:800px;
+  height: 650px;
+  margin-left: -400px;
+  margin-right: -325px;
+  font-family: 	Microsoft YaHei;
+  border: 5px solid black;
+  padding: .5rem 2rem;
+  background: white;
+  font-weight: 900;
+  color: black;
+  letter-spacing: 0.5px;
+  line-height: 19px;
+}
+
+
+.envelope{
+  width: 500px;
+  height: 300px;
+  border: 3px solid pink;
+  position: fixed;
+  left: 35%;
+  transform: translate(-50%, 0);
+  bottom: 30%;
+  border-radius: 10px;
+  box-shadow: 4px 4px 2px #888888;
+  background-color: white;
+  font-weight: 900;
+}
+.triangle-down{
+  width: 0;
+  height: 0;
+  border-left: 252px solid transparent;
+  border-right: 250px solid transparent;
+  border-top: 160px solid pink;
+  border-radius: 15px;
+  position: absolute;
+  left: -5px;
+  top: -1px;
+}
+.triangle-up{
+  width: 0;
+  height: 0;
+  border-left: 250px solid transparent;
+  border-right: 254px solid transparent;
+  border-bottom: 150px solid pink;
+  border-radius: 15px;
+  position: absolute;
+  bottom: -1px;
+  left: -4px;
+}
+
+@keyframes pound {
+  to { transform: scale(1.4); }
+}
+
+.heart{
+  width: 40px;
+  height: 40px;
+  z-index: 999;
+  position: absolute;
+  left: 225px;
+  top: 130px;
+  cursor: pointer;
+  animation: pound .25s infinite alternate;
+}
+
+
+
+
+.text{
+  position: absolute;
+  top: -100px;
+  left: 100px;
+  color: blue;
+  font-size: 24px;
+}
+
+.date{
+  position: absolute;
+  right: 25px;
+  color: blue;
+}
+.date-text{
+  font-size: 24px;
+  color:deeppink;
+}
+
