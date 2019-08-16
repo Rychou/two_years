@@ -146,5 +146,6 @@ npm run build
 > 如果大家在实现的时候遇到了什么问题，也欢迎邮件: 974393900@qq.com 或直接加 QQ也行。
 
 ## 捐赠：
-![](https://user-images.githubusercontent.com/25195267/63184954-47da8080-c08b-11e9-8a25-07d2dfc929e3.png)
+
+<img src="https://user-images.githubusercontent.com/25195267/63184954-47da8080-c08b-11e9-8a25-07d2dfc929e3.png" style="width:150px;"/>
 
