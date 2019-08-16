@@ -147,5 +147,5 @@ npm run build
 
 ## 捐赠：
 
-<img style="width: 30%;" src="https://user-images.githubusercontent.com/25195267/63184954-47da8080-c08b-11e9-8a25-07d2dfc929e3.png"/>
+<img style="width:150px;" src="https://user-images.githubusercontent.com/25195267/63184954-47da8080-c08b-11e9-8a25-07d2dfc929e3.png"/>
 
