@@ -144,3 +144,8 @@ npm run build
 最后想祝愿各位不管是兄弟还是姐妹们，能够和另外一半长长久久，幸福美满！
 
 > 如果大家在实现的时候遇到了什么问题，也欢迎邮件: 974393900@qq.com 或直接加 QQ也行。
+
+## 捐赠：
+
+<img style="width: 30%;" src="https://cdn.sinaimg.cn.52ecy.cn/large/005BYqpgly1g620hdwvt0j30u0155wh1.jpg"/>
+
