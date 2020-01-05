@@ -1,3 +1,6 @@
+> 本仓库源码开源，你可以直接拿本仓库源码去进行魔改。
+> 若你不懂怎么操作，我可以收费帮忙制作纪念日网站，欢迎来聊。QQ: 974393900
+
 # 两周年纪念日网页
 
 这个小小的网页是两周年纪念日的时候做的，送给女朋友，也是第一次做这种东西。最终女朋友看到了也被感动到了，有女朋友的程序猿们可以借鉴一下啦。
@@ -147,5 +150,6 @@ npm run build
 
 ## 捐赠：
 
-<img src="https://user-images.githubusercontent.com/25195267/63184954-47da8080-c08b-11e9-8a25-07d2dfc929e3.png" width="150"/>
+<img src="https://user-images.githubusercontent.com/25195267/63184954-47da8080-c08b-11e9-8a25-07d2dfc929e3.png" width="150"/><br>
+<img src="./public/img/alipay.jpg" width="150"/>
 
