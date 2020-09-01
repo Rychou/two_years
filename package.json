@@ -7,7 +7,7 @@
     "animate.css": "^3.6.1",
     "animateplus": "^2.0.1",
     "antd": "^3.4.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
     "react-scripts": "1.1.4"
